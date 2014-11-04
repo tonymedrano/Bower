@@ -1,0 +1,6 @@
+{
+  "name": "bower-example-test",
+  "dependencies": {
+    "jasmine": "~2.0.4"
+  }
+}
